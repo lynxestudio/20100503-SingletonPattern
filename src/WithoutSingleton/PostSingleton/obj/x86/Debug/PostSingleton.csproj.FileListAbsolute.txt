@@ -1,5 +1,0 @@
-c:\documents and settings\martin\my documents\visual studio 2010\Projects\PostSingleton\PostSingleton\bin\Debug\PostSingleton.exe
-c:\documents and settings\martin\my documents\visual studio 2010\Projects\PostSingleton\PostSingleton\bin\Debug\PostSingleton.pdb
-c:\documents and settings\martin\my documents\visual studio 2010\Projects\PostSingleton\PostSingleton\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\martin\my documents\visual studio 2010\Projects\PostSingleton\PostSingleton\obj\x86\Debug\PostSingleton.exe
-c:\documents and settings\martin\my documents\visual studio 2010\Projects\PostSingleton\PostSingleton\obj\x86\Debug\PostSingleton.pdb
